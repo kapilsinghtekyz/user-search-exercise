@@ -62,7 +62,7 @@ Please **don't fork this repository or open a pull request against it**. Forks o
 1. On this repository's GitHub page, click **Use this template → Create a new repository**.
 2. Set the visibility to **Private** and create it under your own account.
 3. Clone it, do your work, and push your commits.
-4. Under **Settings → Collaborators**, add **`<interviewer-github-username>`** with read access.
+4. Under **Settings → Collaborators**, add **`kapilsinghtekyz`** as a collaborator.
 5. Reply to our email with the link to your repository.
 
 **Option B: no GitHub account**
